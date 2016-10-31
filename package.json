@@ -1,0 +1,11 @@
+{
+  "name": "macwatch",
+  "version": "0.0.1",
+  "description": "Check for Mac Refurbs",
+  "main": "index.js",
+  "author": "Eric Krawczyk",
+  "license": "MIT",
+  "dependencies": {
+    "osmosis": "^1.1.1"
+  }
+}
